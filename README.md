@@ -52,7 +52,7 @@
   localhost : 5010
   
 
-  APK version :   https://drive.google.com/file/d/1CGKc0U2BfI7qY7i4VdhN7b2U0XiZ1I5C/view?usp=drivesdk
+  APK version :   https://drive.google.com/file/d/1CGKc0U2BfI7qY7i4VdhN7b2U0XiZ1I5C/view?usp=drivesdk   
   Login Details:
    Username : girl
    Password : 1234
