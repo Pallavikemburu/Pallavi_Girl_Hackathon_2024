@@ -11,22 +11,22 @@
       
   SOLUTION : The solution includes the   
       
-  1. Assessment System:
-   - Implement an initial assessment system that evaluates the learner's current understanding level in various basic education subjects such as mathematics, language arts, science, and social studies.
-   - Use a combination of multiple-choice questions, short answers, and interactive tasks to gauge the learner's strengths and weaknesses.
-
-  2. Data Analysis:
-   - Utilize machine learning algorithms to analyze the assessment results and identify the learner's areas of proficiency and areas that need improvement.
-   - Develop a personalized learning profile for each learner based on their assessment data, learning preferences, and goals.
-
-  3. Curated Content:
-   - Create a repository of educational content including lessons, quizzes, interactive simulations, videos, and games covering the basic education curriculum.
-   - Tag each content item with metadata indicating its difficulty level, learning objectives, and relevance to specific topics or skills.
-
-  4. Adaptive Learning Engine:
-   - Build an adaptive learning engine that dynamically selects and presents content to the learner based on their current proficiency level and learning pace.
-   - Utilize algorithms that adjust the difficulty of questions and activities based on the learner's performance, providing challenges without overwhelming or underwhelming them.   
-   
+    1. Assessment System:
+     - Implement an initial assessment system that evaluates the learner's current understanding level in various basic education subjects such as mathematics, language arts, science, and social studies.
+     - Use a combination of multiple-choice questions, short answers, and interactive tasks to gauge the learner's strengths and weaknesses.
+  
+    2. Data Analysis:
+     - Utilize machine learning algorithms to analyze the assessment results and identify the learner's areas of proficiency and areas that need improvement.
+     - Develop a personalized learning profile for each learner based on their assessment data, learning preferences, and goals.
+  
+    3. Curated Content:
+     - Create a repository of educational content including lessons, quizzes, interactive simulations, videos, and games covering the basic education curriculum.
+     - Tag each content item with metadata indicating its difficulty level, learning objectives, and relevance to specific topics or skills.
+  
+    4. Adaptive Learning Engine:
+     - Build an adaptive learning engine that dynamically selects and presents content to the learner based on their current proficiency level and learning pace.
+     - Utilize algorithms that adjust the difficulty of questions and activities based on the learner's performance, providing challenges without overwhelming or underwhelming them.   
+     
       
    
    
@@ -49,27 +49,27 @@
  
     Flutter is a popular open-source UI software development kit created by Google. Here are some key features of Flutter:
    
-   1. Single Codebase: Flutter allows developers to write code once and deploy it across multiple platforms like Android, iOS, web, and desktop, saving time and effort.
-   
-   2. Expressive UI: Flutter offers a rich set of customizable widgets that enable developers to build beautiful and highly responsive user interfaces.
-   
-   3. Hot Reload: One of Flutter's standout features is its hot reload functionality, which allows developers to instantly see changes made to the code reflected in the app's UI during development, speeding up the debugging and iteration process.
-   
-   4. Performance: Flutter apps are known for their high performance and smooth animations, thanks to its use of the Dart programming language and its own rendering engine.
-   
-   5. Native Performance: Flutter leverages platform-specific features and compiles to native code, providing near-native performance on both Android and iOS devices.
-   
-   6. Rich Motion APIs: Flutter provides rich motion APIs and pre-built animation widgets, making it easy for developers to create engaging animations and transitions in their apps.
-   
-   7. Access to Native Features: Developers can easily access platform-specific APIs and services using plugins, allowing them to integrate device features like camera, location, sensors, and more into their Flutter apps.
-   
-   8. Cross-platform Development: Flutter's cross-platform capabilities enable developers to reach a wider audience with a single codebase, reducing development time and maintenance costs.
-   
-   9. Community and Ecosystem: Flutter has a large and active community, providing developers with resources, libraries, and plugins to enhance their app development experience.
-   
-   10. Material Design and Cupertino Widgets: Flutter offers both Material Design widgets for Android apps and Cupertino widgets for iOS apps, ensuring a native look and feel on each platform.
-   
-   These features collectively make Flutter a powerful and versatile framework for building mobile, web, and desktop applications with a focus on performance, productivity, and aesthetics.
+     1. Single Codebase: Flutter allows developers to write code once and deploy it across multiple platforms like Android, iOS, web, and desktop, saving time and effort.
+     
+     2. Expressive UI: Flutter offers a rich set of customizable widgets that enable developers to build beautiful and highly responsive user interfaces.
+     
+     3. Hot Reload: One of Flutter's standout features is its hot reload functionality, which allows developers to instantly see changes made to the code reflected in the app's UI during development, speeding up the debugging and iteration process.
+     
+     4. Performance: Flutter apps are known for their high performance and smooth animations, thanks to its use of the Dart programming language and its own rendering engine.
+     
+     5. Native Performance: Flutter leverages platform-specific features and compiles to native code, providing near-native performance on both Android and iOS devices.
+     
+     6. Rich Motion APIs: Flutter provides rich motion APIs and pre-built animation widgets, making it easy for developers to create engaging animations and transitions in their apps.
+     
+     7. Access to Native Features: Developers can easily access platform-specific APIs and services using plugins, allowing them to integrate device features like camera, location, sensors, and more into their Flutter apps.
+     
+     8. Cross-platform Development: Flutter's cross-platform capabilities enable developers to reach a wider audience with a single codebase, reducing development time and maintenance costs.
+     
+     9. Community and Ecosystem: Flutter has a large and active community, providing developers with resources, libraries, and plugins to enhance their app development experience.
+     
+     10. Material Design and Cupertino Widgets: Flutter offers both Material Design widgets for Android apps and Cupertino widgets for iOS apps, ensuring a native look and feel on each platform.
+     
+     These features collectively make Flutter a powerful and versatile framework for building mobile, web, and desktop applications with a focus on performance, productivity, and aesthetics.
 
 
      
@@ -145,11 +145,11 @@
 
   
 
-  Demo Videos:   
+Demo Videos:   
  
-      App Demo:    https://drive.google.com/file/d/1ClONx-CoFJ8jfJr28pEAygeeupjhe242/view?usp=drivesdk   
+   App Demo:    https://drive.google.com/file/d/1ClONx-CoFJ8jfJr28pEAygeeupjhe242/view?usp=drivesdk   
     
-      Frontend and Backend Demo :   https://drive.google.com/file/d/1CybNT3o6YUgvUtsOdO6pPEkvbdcON-QS/view?usp=drivesdk
+   Frontend and Backend Demo :   https://drive.google.com/file/d/1CybNT3o6YUgvUtsOdO6pPEkvbdcON-QS/view?usp=drivesdk
 
   
 
