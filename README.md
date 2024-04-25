@@ -53,15 +53,15 @@
   
 
   APK version :   https://drive.google.com/file/d/1CGKc0U2BfI7qY7i4VdhN7b2U0XiZ1I5C/view?usp=drivesdk   
-  Login Details:
-   Username : girl
-   Password : 1234
+  Login Details: As the time is sufficient, I created a static login page
+   Username : girl  
+   Password : 1234  
 
 
   Demo Videos:  
 
-   App Demo: 
-   Frontend and Backend Demo : 
+   App Demo: https://drive.google.com/file/d/1ClONx-CoFJ8jfJr28pEAygeeupjhe242/view?usp=drivesdk
+   Frontend and Backend Demo :  
 
   
 
